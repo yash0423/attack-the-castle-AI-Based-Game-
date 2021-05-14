@@ -1,11 +1,5 @@
-# EvoPawness Game
+# Attack The Castle(Game)
 
-Based on the article that I write  
-Part 1: https://towardsdatascience.com/create-your-own-board-game-with-powerful-ai-from-scratch-part-1-5dcb028002b8  
-Part 2: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-minimax-part-2-517e1c1e3362  
-Part 3: https://towardsdatascience.com/create-ai-for-your-own-board-game-from-scratch-alpha-zero-part-3-f22761372245  
-
-This repository has the documentation almost all of functions. Hope that it will make you understand better.
 
 The game will be used to experiment some AI Algorithms. There are two AI Algorithms that have been already implemented:
 1. AlphaZero
@@ -46,24 +40,6 @@ CLI is currently unavailable
 
 
 
-## GUI
-![alt text](GUI.PNG "Logo Title Text 1")
 
 
 
-## Progress
-- [x] Add basic elements to be input of AI Algorithm
-- [x] Documenting (almost all of them)
-- [ ] Fix the mess of the code (need more class and remove unnecessary code
-- [x] Create the GUI
-- [x] Use classic AI Algorithm
-- [x] Experimenting Value-based Reinforcement Learning (Failed with DQN)
-- [x] Experimenting Policy-based Reinforcement Learning (Implemented with AlphaZero instead)
-- [ ] Improve AlphaZero and implement PPO to this game
-
-## FAQ
-Q : Can I Contribute? <br>
-A : Of course, just tell me what you want to contribute. <br>
-
-Q : Can I Contact you? <br>
-A : email me in haryomaenan@gmail.com if you want to contact me. Especially about this project.
