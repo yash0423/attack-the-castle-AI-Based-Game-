@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Attack_the_castle
+Comment=Attack_the_castle
+Exec=bash -c '"$(dirname "$1")"/start.sh' dummy %k
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;Application;
